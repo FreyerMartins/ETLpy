@@ -3,6 +3,9 @@
 This is an ETL python script that ingest some data,
 applies some transformation, and loads them back into a file.
 
+## running script
+to run the script, simply run `uv run main.py` to leverage uv's package management.
+
 ## data source
 Data was taken from kaggle using the students academic performance dataset.
 This data set can be found [here](https://www.kaggle.com/datasets/sadiajavedd/students-academic-performance-dataset)
